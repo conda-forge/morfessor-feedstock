@@ -16,14 +16,15 @@ semi-supervised morphological segmentation tasks.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/morfessor-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/morfessor-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/morfessor-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/morfessor-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/morfessor-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/morfessor-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/morfessor-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/morfessor-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/morfessor/badges/version.svg)](https://anaconda.org/conda-forge/morfessor)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/morfessor/badges/downloads.svg)](https://anaconda.org/conda-forge/morfessor)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-morfessor-green.svg)](https://anaconda.org/conda-forge/morfessor) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/morfessor.svg)](https://anaconda.org/conda-forge/morfessor) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/morfessor.svg)](https://anaconda.org/conda-forge/morfessor) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/morfessor.svg)](https://anaconda.org/conda-forge/morfessor) |
 
 Installing morfessor
 ====================
