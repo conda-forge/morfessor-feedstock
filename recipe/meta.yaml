@@ -1,6 +1,6 @@
 {% set name = "Morfessor" %}
 {% set version = "2.0.6" %}
-{% set sha256 = "7215e37909ebd2bafeeec5fdf4e339a25e61aee4895ff99317b9fb44eddab562" %}
+{% set sha256 = "bb3beac234341724c5f640f65803071f62373a50dba854d5a398567f9aefbab2" %}
 
 package:
   name: {{ name|lower }}
